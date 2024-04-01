@@ -1,0 +1,16 @@
+{
+  "name": "rchashapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Majid Nachan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "md5": "^2.3.0",
+    "nodejs-base64": "^2.0.0"
+  }
+}
